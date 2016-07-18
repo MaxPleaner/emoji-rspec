@@ -12,6 +12,8 @@ A set of emoji based RSpec formatters for use with test output.
 
 **Note**: Stuck on Ruby 1.8.7? :grimacing: See [0.x version](#0x) end of life note.
 
+**Note**: This gem doesn't yet support RSpec 3.
+
 Add this line to your application's Gemfile:
 
     group :test do
